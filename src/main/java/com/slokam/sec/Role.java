@@ -14,5 +14,6 @@ public class Role {
 	@GeneratedValue
 	private Integer id;
 	private String name;
+	//New property taken.
 	
 }
